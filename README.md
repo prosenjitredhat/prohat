@@ -1,4 +1,4 @@
-- 👋 Hi, I’m prosenjit @ redhat
+- 👋 Hi, I’m Prosenjit @ RedHat
 - 👀 I’m interested in Edge, IoT, OS and Containers. 
 - 🌱 I’m currently learning Edge Solutions 
 - 💞️ I’m looking to collaborate on on Edge and IoT topics
